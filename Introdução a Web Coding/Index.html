@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo HTML com Diversão</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ff4500;
+            text-align: center;
+            animation: bounce 2s infinite;
+        }
+
+        h2 {
+            color: #008080;
+            text-decoration: underline;
+        }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        a {
+            color: #1e90ff;
+            text-decoration: none;
+            font-weight: bold;
+            animation: blink 1s infinite;
+        }
+
+        a:hover {
+            color: #ff4500;
+        }
+
+        img {
+            border: 3px solid #4682b4;
+            border-radius: 10px;
+            display: block;
+            margin: 20px auto;
+            animation: rotate 4s infinite linear;
+        }
+
+        ul {
+            background-color: #ffe4b5;
+            padding: 10px;
+            border-radius: 10px;
+            list-style-type: square;
+        }
+
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo ao Mundo do HTML!</h1>
+    
+    <h2>1. Cabeçalhos</h2>
+    <p>Os cabeçalhos são como os títulos de um livro. Eles nos dizem sobre o que vamos ler a seguir!</p>
+    <h3 style="color: #ff1493;">Este é um cabeçalho H3!</h3>
+    <h4 style="color: #32cd32;">Este é um cabeçalho H4!</h4>
+
+    <h2>2. Parágrafos</h2>
+    <p>
+        Os parágrafos são como contar uma história. É onde as palavras vivem e brincam!<br>
+        Vamos imaginar que estamos contando uma grande aventura.<br>
+        Primeiramente, começamos com uma introdução sobre nossos heróis.<br><br>
+        Depois, descrevemos os desafios e as aventuras que eles enfrentam.<br>
+        <br>
+        No final, contamos como eles venceram e aprenderam coisas novas.<br>
+        Cada parágrafo é como um pedaço dessa história, cheio de emoções e surpresas.<br><br>
+        Vamos usar os parágrafos para organizar todas essas partes, assim como fazemos
+        ao montar um quebra-cabeça!<br>
+    </p>
+
+    <h2>3. Links</h2>
+    <p>Os links são como portas mágicas. Quando você clica neles, você vai para outro lugar na internet!</p>
+    <a href="https://github.com/PhilipeOliveiraS">Clique aqui para abrir uma porta mágica!</a>
+
+    <h2>4. Imagens</h2>
+    <p>As imagens são como fotos que podemos ver em nossos sites! Elas fazem tudo ficar mais colorido e divertido.</p>
+    <img src="https://avatars.githubusercontent.com/u/170777896?v=4" alt="Uma imagem divertida!">
+
+    <h2>5. Listas</h2>
+    <p>As listas são como uma lista de compras, mas para organizar informações! Vamos fazer uma:</p>
+    <ul>
+        <li style="color: #ff6347;">Item 1: Maçãs</li>
+        <li style="color: #4682b4;">Item 2: Bananas</li>
+        <li style="color: #dda0dd;">Item 3: Biscoitos</li>
+    </ul>
+
+</body>
+</html>
