@@ -21,6 +21,9 @@ Esse projeto foi criado durante uma aula prática de **Web Coding** 👨‍🎓.
 - **User Experience:** Campos fáceis de preencher e um design responsivo! 📲
 
 ---
+## Confere o Visual!
+![Formulário de Matrícula - Projeto HTML + CSS + PHP](https://github.com/PhilipeOliveiraS/Data-Analytics-com-Power-BI/blob/main/Projeto%201%20-%20Relat%C3%B3rio%20e%20Dashboard%20Criativo/Print%201%20-%20Relat%C3%B3rio_Criativo.png?raw=true)
+
 
 ## 🛠️ Como o Código Funciona?  
 Aqui vai uma explicação **passo a passo** para você entender cada pedacinho deste formulário mágico 🧙:
@@ -86,7 +89,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ## 🔥 Como Executar o Projeto?
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/PhilipeOliveiraS/Formulário de Matrícula - Projeto HTML + CSS + PHP.git
+   git clone https://github.com/PhilipeOliveiraS/Web-Coding.git
    ```
 2. Abra o arquivo no seu navegador (se estiver sem PHP).  
 3. Para testar com PHP, instale um servidor local, como o [XAMPP](https://www.apachefriends.org/pt_br/index.html).  
