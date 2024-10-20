@@ -22,7 +22,7 @@ Esse projeto foi criado durante uma aula prática de **Web Coding** 👨‍🎓.
 
 ---
 ## Confere o Visual!
-![Formulário de Matrícula - Projeto HTML + CSS + PHP](https://github.com/PhilipeOliveiraS/Data-Analytics-com-Power-BI/blob/main/Projeto%201%20-%20Relat%C3%B3rio%20e%20Dashboard%20Criativo/Print%201%20-%20Relat%C3%B3rio_Criativo.png?raw=true)
+![Formulário de Matrícula - Projeto HTML + CSS + PHP](https://github.com/PhilipeOliveiraS/Web-Coding/blob/main/Formul%C3%A1rio%20de%20Matr%C3%ADcula%20-%20Projeto%20HTML%20+%20CSS%20+%20PHP/Formul%C3%A1rio%20de%20Matr%C3%ADcula%20-%20Projeto%20HTML%20+%20CSS%20+%20PHP.png?raw=true)
 
 
 ## 🛠️ Como o Código Funciona?  
